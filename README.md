@@ -61,7 +61,7 @@ The application produces statistics including:
 ### Data Distribution
 ![Histogram](histogram.png)
 ### Outlier Detection
-![Box Plot](boxplot.png)
+![Box Plot](box_plot.png)
 
 ## Purpose
 This project demonstrates practical Python programming combined with mathematics and data analysis, with an emphasis on modular architecture, data validation, automated testing, and visualization.
